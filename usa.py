@@ -1,1 +1,1 @@
-echo "usa ok"
+print "usa ok"
