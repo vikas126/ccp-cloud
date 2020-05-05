@@ -1,1 +1,1 @@
-echo "eroup ok"
+print "eroup ok"
