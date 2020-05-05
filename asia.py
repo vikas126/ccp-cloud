@@ -1,1 +1,1 @@
-echo "asia ok"
+print "asia ok"
