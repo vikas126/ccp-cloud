@@ -1,0 +1,1 @@
+echo "asia ok"
